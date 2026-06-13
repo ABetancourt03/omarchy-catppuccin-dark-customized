@@ -16,7 +16,7 @@ or
 
 `Omarchy menu > Install > Style > Theme` and use the following link:
 
-`https://github.com/ABetancourt03/omarchy-catppuccin-dark
+`https://github.com/ABetancourt03/omarchy-catppuccin-dark-customized
 `
 
 ## Starship
