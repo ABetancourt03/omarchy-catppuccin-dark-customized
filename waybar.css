@@ -14,7 +14,6 @@ window#waybar {
 #waybar>box {
   background: rgba(1, 1, 1, 0.2);
   margin: 10px 10px 0;
-  border-radius: 10px;
 }
 
 .modules-left,
