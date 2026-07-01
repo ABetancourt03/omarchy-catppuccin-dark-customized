@@ -19,7 +19,6 @@ window#waybar {
 .modules-left,
 .modules-right {
   background-color: transparent;
-  border-radius: 26px;
   margin: 4px 8px 4px 8px;
 }
 
@@ -30,7 +29,6 @@ window#waybar {
 
 .modules-center {
   background-color: transparent;
-  border-radius: 26px;
   margin: 4px 8px 4px 8px;
   padding: 2px 8px;
 }
@@ -227,7 +225,6 @@ window#waybar {
 tooltip {
   background-color: @surface;
   border: 1px solid @highlightMed;
-  border-radius: 4px;
 }
 
 tooltip label {
