@@ -57,8 +57,9 @@ window#waybar {
 }
 
 #workspaces button:hover {
-  color: @text;
-  background-color: transparent;
+  background: none;
+  border: none;
+  transition: none;
 }
 
 #workspaces button.urgent {
