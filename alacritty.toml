@@ -1,8 +1,8 @@
 [window]
-opacity = 0.4
+opacity = 0.6
 
 [colors.primary]
-background = "#010101"
+background = "#181825"
 foreground = "#cdd6f4"
 dim_foreground = "#7f849c"
 bright_foreground = "#cdd6f4"
