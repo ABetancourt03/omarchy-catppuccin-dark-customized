@@ -1,4 +1,4 @@
-# Cattpuccin-mocha Dark (customized)
+# Cattpuccin Mocha Dark (customized)
 
 omarchy-catppuccin-dark theme but a little customized with more backgrounds and very little personal things.
 
